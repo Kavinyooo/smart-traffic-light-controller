@@ -1,0 +1,27 @@
+# Xilinx ISE generated files
+isim/
+xst/
+_xmsgs/
+iseconfig/
+
+# Simulation files
+*.log
+*.jou
+*.wdb
+*.vcd
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# Operating System
+.DS_Store
+Thumbs.db
