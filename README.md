@@ -30,7 +30,6 @@ smart-traffic-light-controller/
 ├── src/
 ├── testbench/
 ├── simulation/
-├── docs/
 ├── README.md
 └── LICENSE
 ```
